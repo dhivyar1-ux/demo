@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class HelloService {
 	public String hello() {
 		//business logic
-		return "Hello to Spring Web";
+		return "Hello to Git Hub";
 	}
 
 }
